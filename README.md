@@ -3,7 +3,7 @@
 
 ---
 
-## 📱 About Me:
+## 👤 About Me:
 
 - 🔭 I’m passionate about building robust, user-friendly Android applications  
 - 🌱 Currently exploring advanced Android development, Kotlin, Spring Boot, and PostgreSQL  
@@ -38,9 +38,10 @@
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Ashvin424&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Ashvin424&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashvin424&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![Ashvin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ashvin424&show_icons=true&theme=dark&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashvin424&layout=compact&theme=dark)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
