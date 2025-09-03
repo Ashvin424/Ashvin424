@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashvin Prajapati</h1>
-<h3 align="center">💡 Android Developer | Turning Ideas into Mobile Apps & Backend Solutions</h3>
+<h3 align="center">💡 Android/Backend Developer | Turning Ideas into Mobile Apps & Backend Solutions</h3>
 
 ---
 
