@@ -37,11 +37,6 @@
 
 ---
 
-# 📊 GitHub Stats:
-![Ashvin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ashvin424&show_icons=true&theme=dark&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashvin424&layout=compact&theme=dark)
-
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
